@@ -2,6 +2,7 @@
 
 # Squads
 [Live](http://squads-app.herokuapp.com/)
+<br></br>
 Squads is a video conferencing web app, where users can create rooms, invite other users via link, join rooms, group video-audio call with other participants of the same room, and also exchange text messages.
 **This project is a part of [Teams Clone- Microsoft Engage'21](https://microsoft.acehacker.com/engage2021/?mc_cid=1b332f034a&mc_eid=6724c88fad).** 
 
@@ -54,10 +55,15 @@ For the demo, https://www.youtube.com/watch?v=DudWT4HmgqY
 #Learnings
 
 ###Complete development for a WebApp following Agile Software Development methodology.
+
 ###Understood End to End flow of a WebApp including FrontEnd & BackEnd.
+
 ###WebRTC Technology, WebSockets, Servers.
+
 ###FrontEnd Technologies like Tailwind UI, jQuery, javaScript, responsive UIs.
+
 ###BackEnd Technologies like NodeJs, Express, APIs.
+
 ###Utilization of Libraries/Modules for rapid development.
 
 ## Contributor
