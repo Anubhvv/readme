@@ -14,18 +14,24 @@ It uses P2P connection to connect call. Websockets used for signalling.
 
 # Getting Started
 
+###Steps to get it working on you local machine.
+
 $ git clone https://github.com/Anubhvv/Squads.git
+<br></br>
 install nodejs
+<br></br>
 $ npm install socket.io express uuid 
+<br></br>
 $npm start
+<br></br>
 visit localhost:3232
 
 
 Prerequisites:
 
-nodejs 
-express
-socket.io
+nodejs  <br></br>
+express <br></br>
+socket.io<br></br>
 uuid
 
 # Document
@@ -44,12 +50,19 @@ For the demo, https://www.youtube.com/watch?v=DudWT4HmgqY
 ### Allows people with a room link to join the conference call.
 
 ###Allows multiple users to join a single room.
+
 ###Ability to create multiple rooms without interference and conflicts.
+
 ###Allows the same user to connect to different rooms at a time.
+
 ###Capability of chatting over text with the people of the conference call.
+
 ###Ability to switch Camera and Mic On/Off.
+
 ###Waiting room before joining the call.
+
 ###Ability to locate the sender of the message in the chat box.
+
 ###If a user joins a room but is unable to connect to the call, the user can access the chat box and communicate over text.
 
 #Learnings
