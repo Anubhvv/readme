@@ -49,35 +49,35 @@ For the demo, https://www.youtube.com/watch?v=DudWT4HmgqY
 
 ### Allows people with a room link to join the conference call.
 
-###Allows multiple users to join a single room.
+### Allows multiple users to join a single room.
 
-###Ability to create multiple rooms without interference and conflicts.
+### Ability to create multiple rooms without interference and conflicts.
 
-###Allows the same user to connect to different rooms at a time.
+### Allows the same user to connect to different rooms at a time.
 
-###Capability of chatting over text with the people of the conference call.
+### Capability of chatting over text with the people of the conference call.
 
-###Ability to switch Camera and Mic On/Off.
+### Ability to switch Camera and Mic On/Off.
 
-###Waiting room before joining the call.
+### Waiting room before joining the call.
 
-###Ability to locate the sender of the message in the chat box.
+### Ability to locate the sender of the message in the chat box.
 
-###If a user joins a room but is unable to connect to the call, the user can access the chat box and communicate over text.
+### If a user joins a room but is unable to connect to the call, the user can access the chat box and communicate over text.
 
-#Learnings
+# Learnings
 
-###Complete development for a WebApp following Agile Software Development methodology.
+### Complete development for a WebApp following Agile Software Development methodology.
 
-###Understood End to End flow of a WebApp including FrontEnd & BackEnd.
+### Understood End to End flow of a WebApp including FrontEnd & BackEnd.
 
-###WebRTC Technology, WebSockets, Servers.
+### WebRTC Technology, WebSockets, Servers.
 
-###FrontEnd Technologies like Tailwind UI, jQuery, javaScript, responsive UIs.
+### FrontEnd Technologies like Tailwind UI, jQuery, javaScript, responsive UIs.
 
-###BackEnd Technologies like NodeJs, Express, APIs.
+### BackEnd Technologies like NodeJs, Express, APIs.
 
-###Utilization of Libraries/Modules for rapid development.
+### Utilization of Libraries/Modules for rapid development.
 
 ## Contributor
 - [Anubhav Agrawal](https://github.com/anubhvv)
